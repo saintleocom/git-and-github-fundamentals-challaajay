@@ -1,6 +1,6 @@
-#****
+
 FEATURES IA HAVE LEARNT ABOUT
-#****
+
 #Settings 
 This features deals about merging the commits and deleting and archiving the repository.
 
