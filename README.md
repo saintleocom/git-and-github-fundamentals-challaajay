@@ -107,6 +107,29 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 
+ 
 
 
-Ajay challa
+
+
+# :wave: CHALLA AJAY KUMAR
+
+I have learnt creating a repository , the uses of fork and pull requests.
+  
+## Introducing Myself
+My name is Challa Ajay Kumar , I did my bachelors in Instrumentation Engineering and 
+I like to play badminton.
+x
+
+## Like to see more about:
+I like to know more information about GIT and GIT Hub.
+I'm interested in learning query language and cloud computing.
+
+
+
+
+
+
+
+
+
